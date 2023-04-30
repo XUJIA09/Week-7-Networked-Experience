@@ -29,7 +29,7 @@ li{
 p{
     font-size: 16px;
     line-height: 1.6em;
-    margin: 2.5em 0;
+    margin: 20px 0;
     font-family: Helvetica, sans-serif;
 }
 
@@ -49,6 +49,7 @@ header.documentation-header{
 .documentation-header section,
 main.documentation-page section{
     margin: 10px 10%;
+    
 }
 
 footer{
@@ -91,7 +92,10 @@ img{
     left:0;
     height: 100%;
     width: 100%;
+    
+    
 }
+
 
 
 /* Flex layouts are one of the easier ways to style responsive layouts that work on all devices */
